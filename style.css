@@ -12,22 +12,23 @@ nav ul {
     justify-content:center;
     gap: 20px;
     list-style: none;
+    
 }
-
 a:link {
-    color: #e4dbe3;
-    text-decoration: none;
+    color:tomato;
 }
 
-a:visited {
-    color: #f1e7e7;
-}
+
+
 
 a:hover {
-    color: rgb(240, 71, 255);
+    color:red;
 
 }
 a:active {
     color: rgb(0, 38, 255);
 }
+
+/* HERO SECTION */
+
 
