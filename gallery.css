@@ -29,6 +29,40 @@ a:active {
     color: rgb(0, 38, 255);
 }
 
+/* HERO SECTION */
+
+h1  {
+    color: #830cf1;
+    font-size: 50px;
+    font-weight: 200px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: #830cf1;    
+}
+
+.car-images ul img {
+    height: 550px;
+    width: 400px;   
+
+}
+
+.car-images ul {
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: 3,400px;
+    gap:20px;
+    list-style: none;
+}
+.car-images p {
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bolder;
+    
+    
+}
+
 
 
 
