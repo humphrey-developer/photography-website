@@ -1,4 +1,4 @@
-/* STYLING HEADER SECTION */
+/* STYLING HEADER && NAVIGATION SECTION */
 nav ul {
     color: blue;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -9,16 +9,25 @@ nav ul {
 }
 nav ul {
     display:flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 5px;
+    justify-content:center;
+    gap: 20px;
     list-style: none;
 }
 
+a:link {
+    color: #e4dbe3;
+    text-decoration: none;
+}
 
+a:visited {
+    color: #f1e7e7;
+}
 
+a:hover {
+    color: rgb(240, 71, 255);
 
-
-
-
+}
+a:active {
+    color: rgb(0, 38, 255);
+}
 
