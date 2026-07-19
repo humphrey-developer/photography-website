@@ -15,7 +15,7 @@ https://github.com/humphrey-developer/photography-website.git
 * **Link to Live-Website**
 https://humphrey-developer.github.io/photography-website/
 
-*How I designed*
+*How I designed using Ms.Word*
 ![Website Design Layout](photograph-design.jpeg)
 
 

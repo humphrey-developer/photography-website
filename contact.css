@@ -1,4 +1,9 @@
-ody {
+/* scrolling smooth */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
     background-color: #c9afaf;
 }
 
