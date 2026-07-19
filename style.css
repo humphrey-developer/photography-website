@@ -21,11 +21,6 @@ nav ul {
     list-style: none;
     
 }
-a:link {
-    color:tomato;
-}
-
-
 
 
 a:hover {
@@ -98,6 +93,14 @@ h1 {
     color: #c7f10a;
     font-size: 50px;
     font-weight: bolder;
+}
+/* COLLABORATION */
+.collaboration {
+    text-align:center ;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+
 }
 
 
