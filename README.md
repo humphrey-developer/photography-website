@@ -1,2 +1,9 @@
-# photography-website
-A phototgraphy website showcasing proffessional galleries,cars,landscape shots,and travel sessions.
+# HUMPHREY PHOTOGRAPHY && DESIGN
+
+## Author
+**Name:** Humphrey Otieno
+**Role:** Front-End Developer
+
+## Description of Project
+
+
