@@ -81,7 +81,26 @@ h1 {
     text-align: center;
     font-style: italic;
 }
-   
+/* ABOUT SECTION */
+
+.img-diplay ul img {
+    height: 500px;
+    width: 600px; 
+}
+.img-diplay ul {
+    display: flex;
+    align-items: center;
+    list-style: none;    
+}
+
+.img-diplay p {
+    font-family: 'Times New Roman', Times, serif;
+    color: #c7f10a;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+
 /* FOOTER STYLING */
 footer p {
     color:#f1bb09;
