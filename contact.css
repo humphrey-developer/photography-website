@@ -1,3 +1,8 @@
+ody {
+    background-color: #c9afaf;
+}
+
+
 /* STYLING HEADER && NAVIGATION SECTION */
 nav ul {
     color: blue;
@@ -29,6 +34,65 @@ a:active {
     color: rgb(0, 38, 255);
 }
 
+/* CONTACT SECTION & FORMS */
 
+.contact {
+    background-color: black;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    border-radius: 50px;
+    border-width: 10px, solid blue;
+}
+
+/* REGISTRATION FORM */
+.forms {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e6d00e;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;    
+    padding: 10px;
+    border-radius: 50px;
+    border-style: dashed;
+    border-width: 3px;
+    margin-left: 200px;
+    margin-right: 200px;
+       
+}
+
+#fill-form label {
+    color:blue;    
+}
+
+#fill-form input {
+    border-color: #f508e9;
+    font-size:20px;
+    min-width: 400px;
+    font-family: 'Courier New', Courier, monospace;    
+}
+
+#fill-form button {
+    background-color: greenyellow;
+    border-radius: 40px;
+    border-color: #f53e07;
+    font-weight: bold;
+    font-size: 18px;        
+} 
+
+/* FOOTER STYLING */
+footer p {
+    color:#f1bb09;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: #1a1918;
+    font-style: italic;
+    text-align: center;
+}
 
 
