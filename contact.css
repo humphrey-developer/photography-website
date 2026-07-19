@@ -62,12 +62,7 @@ a:active {
     font-style: normal;
     font-weight: bold;    
     padding: 10px;
-    border-radius: 50px;
-    border-style: dashed;
-    border-width: 3px;
-    margin-left: 200px;
-    margin-right: 200px;
-       
+    
 }
 
 #fill-form label {
