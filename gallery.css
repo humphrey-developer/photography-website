@@ -4,17 +4,17 @@ html {
 }
 
 body {
-    background-color: #c9afaf;
+    background-color: #0f0f0f;
 }
 
 
 /* STYLING HEADER && NAVIGATION SECTION */
 nav ul {
-    color: blue;
+    color: rgb(29, 216, 207);
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
     font-weight: bold; 
-    background: linear-gradient(to top,black,white,yellow,green);
+    background:linear-gradient(to bottom,#2e858b,white)
     padding:20px;
 }
 nav ul {
@@ -42,12 +42,12 @@ a:active {
 /* HERO SECTION */
 
 h1  {
-    color: #830cf1;
+    color: #12c9d6;
     font-size: 50px;
     font-weight: 200px;
     font-style: italic;
     text-align: center;
-    text-shadow: #830cf1;    
+    text-shadow: #0ac5e6;    
 }
 
 .car-images ul img {
@@ -64,7 +64,7 @@ h1  {
     list-style: none;
 }
 .car-images p {
-    color:red;
+    color:#0ecfdd;
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     font-style: italic;
@@ -85,7 +85,7 @@ h1  {
 }
 
 .aesthetic p {
-    color:red;
+    color:#0ecfdd;
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     font-style: italic;
@@ -104,7 +104,7 @@ h1  {
     list-style: none;
 }
 .motivation p {
-    color:red;
+    color:#0ecfdd;
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     font-style: italic;
@@ -125,7 +125,7 @@ h1  {
 }
 
 .wildlife p {
-    color:red;
+    color:#0ecfdd;
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     font-style: italic;
@@ -133,7 +133,7 @@ h1  {
 }
 
 .motivation p {
-    color:red;
+    color:#0ecfdd;
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     font-style: italic;
@@ -142,7 +142,7 @@ h1  {
 
 /* FOOTER STYLING */
 footer p {
-    color:#f1bb09;
+    color:#0ed1df;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
     font-weight: bolder;

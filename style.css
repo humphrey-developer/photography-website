@@ -13,11 +13,11 @@ body {
 
 /* STYLING HEADER && NAVIGATION SECTION */
 nav ul {
-    color: blue;
+    color: rgb(34, 193, 233);
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
     font-weight: bold; 
-    background: linear-gradient(to top,black,white,yellow,green);
+    background:linear-gradient(to bottom,#2e858b,white);
     padding:20px;
 }
 nav ul {
@@ -48,7 +48,7 @@ a:active {
 
 /* Styling the h1 */
 h1 {
-    color: #480af1;
+    color: #3ea2d1;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 45px;
     font-style: italic;
@@ -75,7 +75,7 @@ h1 {
 }
 
  p {
-    color: #db1471;
+    color: #f1e7ec;
     font-family:'Times New Roman', Times, serif;
     font-size: 40px;
     max-width: 1800px;
@@ -96,7 +96,7 @@ h1 {
 
 .img-diplay p {
     font-family: 'Times New Roman', Times, serif;
-    color: #c7f10a;
+    color: #0ecfdd;
     font-size: 50px;
     font-weight: bolder;
 }
@@ -112,7 +112,7 @@ h1 {
 
 /* FOOTER STYLING */
 footer p {
-    color:#f1bb09;
+    color:#1dcad6;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
     font-weight: bolder;
